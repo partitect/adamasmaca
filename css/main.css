@@ -3,7 +3,7 @@
 body {
     font-family: 'Bungee Inline', cursive;
     font-size: 2em;
-    background: #3185FC;
+    background: blue;
 }
 
 .wrapper {
@@ -22,7 +22,7 @@ h1 {
     font-size: 5em;
     color: white;
     -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: #E84855;
+    -webkit-text-stroke-color: red;
 
 }
 
